@@ -1,0 +1,42 @@
+body{
+background-image: url(bg2.jpg);
+background-size: auto 100%;
+background-repeat:no-repeat;
+background-position:top left;
+}
+.container-fluid1 {
+    position: relative;
+    text-align: center;
+    color: rgb(146, 154, 158);
+  }
+
+.bottom-right {
+    position: absolute;
+    bottom: 25px;
+    left: 150px;
+  }
+
+
+.img-fluid
+{
+    max-width: 900px;
+    max-height: 500px;
+   
+    
+}
+.img-fluid2
+{
+
+    max-width: 900px;
+    max-height: 500px;
+    padding-right: 25px;
+    box-sizing: border-box;
+}
+.fli{
+    max-width: 350px;
+    max-height: 400px;
+    padding:25px;
+    box-sizing: border-box;
+}
+
+
